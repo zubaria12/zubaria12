@@ -10,7 +10,7 @@ I build cross-platform mobile applications, back them with solid test suites, an
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/zubaria-sajjad" target="_blank">
+<a href="https://www.linkedin.com/in/zubaria-sajjad-a63102363" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" />
 </a>
 <a href="mailto:zubariasajjad70@gmail.com">
@@ -53,21 +53,21 @@ I build cross-platform mobile applications, back them with solid test suites, an
 | Project | Description | Tech Stack |
 |---|---|---|
 | 💰 [FinanceFlow AI](https://github.com/zubaria12/AI-Finance-Manager) | AI-powered personal finance tracker — automatic transaction categorization, AI chatbot, spending analytics, and PDF report generation | Flutter, Firebase, Groq AI |
-| 🍴 [FeastFleet](https://github.com/zubaria12) | MERN food ordering platform with cart, checkout, and JWT-based authentication *(team project — contributor)* | React, Node.js, Express, MongoDB |
+| 🍴 [FeastFleet](https://github.com/chumarhassan/FeastFleet) | MERN food ordering platform with cart, checkout, and JWT-based authentication *(team project — contributor)* | React, Node.js, Express, MongoDB |
 | 🧠 [AI Income Class Predictor](https://github.com/zubaria12/AI---ML-Income-Predictor-Model) | Desktop ML app predicting income class with a Random Forest model, rule-based recommendations, and an interactive dark-themed GUI | Python, Scikit-Learn, Tkinter |
 | 🎓 NOVA AI *(Final Year Project — Private)* | AI-driven Agile project management platform: meeting transcription, action-item extraction, AI user story generation, and sprint-aware admin workflows | Flutter, FastAPI, PostgreSQL, OpenAI, Whisper |
 
 <br>
 
-## 🧪 Testing, Automation & Coursework Systems
+## 🧪 Testing & Core CS Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🛒 Daraz E-Commerce Automation | End-to-end automated test suite covering search, product detail, cart, and checkout flows | Cypress |
 | 🎬 UI Automation Suite | Automated functional test cases across multiple user flows using Page Object patterns | Selenium |
-| 📚 [Online Bookstore Console App](https://github.com/zubaria12) | Role-based (Admin/User) Java console app with book inventory, purchase flow, and object-serialized data storage | Java |
-| ✈️ RJ Airlines Reservation System | Java Swing GUI app for flight booking, reservation management, and admin flight control | Java, Swing, File I/O |
-| 🚦 Traffic Control System | Simulated traffic management system using priority queues for emergency vs. normal vehicles, with file persistence | C++ |
+| 📚 [Java Console Bookstore Application](https://github.com/zubaria12/Java-cli-based-BookStore-Application) | Role-based (Admin/User) console app with book inventory, purchase flow, input validation, and object-serialized data storage | Java |
+| ✈️ [GUI-Based Airline Reservation System](https://github.com/zubaria12/GUI-based-Airline-Simulation-System-OOP-) | Java Swing GUI app applying OOP (inheritance & polymorphism) for flight booking, reservations, and admin flight control | Java, Swing, File I/O |
+| 🚦 [Traffic Control System](https://github.com/zubaria12/DSA-cli-based-Traffic-Control-System-in-C-) | DSA-based traffic simulation using custom queues and linked lists to prioritize emergency vs. normal vehicles | C++ |
 
 <br>
 
@@ -76,7 +76,7 @@ I build cross-platform mobile applications, back them with solid test suites, an
 | Organization | Role | Focus |
 |---|---|---|
 | **NASTP** | Intern | Hands-on exposure to industry software development practices |
-| **Excelerate / GlobalShala** | Data Visualization Associate Intern (Team Lead) | Marketing campaign performance analysis, Excel & PowerPoint reporting, data-driven recommendations |
+| **Excelerate / GlobalShala** | Data Visualization Associate Intern (Team Lead) | [Marketing campaign performance analysis](https://github.com/zubaria12/Marketing-Campaign-Performance-Visualization-Analysis---Excelerate-Internship) — Excel & PowerPoint reporting, data-driven recommendations |
 
 <br>
 
